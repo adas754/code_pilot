@@ -1,4 +1,5 @@
-## conda create and activate
+## First step 
+## conda create and activate env
 ## pip install -r requirements.txt
 ## keep gorq and AI21_API_KEY inside .env file
 ## streamlit run app.py 
